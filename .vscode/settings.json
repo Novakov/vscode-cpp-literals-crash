@@ -1,0 +1,14 @@
+{
+    "files.associations": {
+        "*.spec": "python",
+        "*.sshtml": "html",
+        "*.j2": "jinja",
+        "chrono": "cpp",
+        "cstdint": "cpp",
+        "ctime": "cpp",
+        "ratio": "cpp",
+        "type_traits": "cpp",
+        "limits": "cpp"
+    },
+    "C_Cpp.loggingLevel": "Debug"
+}
